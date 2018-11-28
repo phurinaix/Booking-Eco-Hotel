@@ -1,3 +1,2 @@
-## Login system using PHP with PDO
+## Booking Eco Hotel
 
-![Alt text](img/login.png?raw=true "Title")
